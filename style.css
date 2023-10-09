@@ -162,6 +162,12 @@ h1.black {
   font-weight: 600;
   line-height: normal;
 }
-#portfoliotitle {
+#portfolioTitle {
   margin-top: 150px;
+}
+.portfolioImg img {
+  width: 100%;
+}
+.portfolioImg {
+  padding: 20px;
 }
